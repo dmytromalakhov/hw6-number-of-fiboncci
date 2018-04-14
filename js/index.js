@@ -1,6 +1,6 @@
 const a = parseFloat(prompt('Enter a first number', 1));
-const b = parseFloat(prompt('Enter a second number', 2));
-const c = parseFloat(prompt('Enter a quantity  of numbers', 3));
+const b = parseFloat(prompt('Enter a second number', 1));
+const c = parseFloat(prompt('Enter a quantity  of numbers', 15));
 
 document.write('Number of Fibonacci across Array;' + '<br>');
 let arr = [a, b];
